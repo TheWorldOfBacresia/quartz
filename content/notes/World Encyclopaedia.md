@@ -19,7 +19,7 @@
 
 [[notes/The Gods of Bacresia/Dumah]]
 
-[[Gabriel]]
+[[notes/The Gods of Bacresia/Gabriel]]
 
 [[notes/The Gods of Bacresia/Liliel]]
 
@@ -37,7 +37,7 @@
 ## Wildspace
 [[notes/Wildspace/Wildspace]]
 
-[[notes/Wildspace/Oberon & Titania]]
+[[notes/Wildspace/The Moons of Bacresia]]
 
 
 ## Guilds and Organisations
@@ -59,6 +59,7 @@
 
 #### Elf
 [[notes/Cultures/Elf/Drandar]]
+
 [[notes/Cultures/Elf/Lothian]]
 
 #### Goblin
@@ -66,8 +67,11 @@
 
 #### Human
 [[notes/Cultures/Human/Anor]]
+
 [[notes/Cultures/Human/Dail]]
+
 [[notes/Cultures/Human/Maerokyan]]
+
 [[notes/Cultures/Human/Rohand]]
 
 #### Orc
