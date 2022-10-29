@@ -1,3 +1,3 @@
 **Controlled Territories**
 
-*   [[The Grand Citadel of Kharia]]
+*   [[notes/Capital Cities/The Grand Citadel of Kharia]]

@@ -7,8 +7,8 @@ A northern culture of the west, Lothians tend to live in smaller settlements, re
 
 **Related Organizations**
 
-*   [[Kingdom of Faymouth]]
+*   [[notes/Kingdoms and Empires/Kingdom of Faymouth]]
 
 **Related Locations**
 
-*   [[Dacia]]
+*   [[notes/Continents/Dacia]]

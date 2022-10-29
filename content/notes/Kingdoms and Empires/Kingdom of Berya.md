@@ -44,7 +44,7 @@ Gold
 
 **Location**
 
-[[Valodur]]
+[[notes/Continents/Valodur]]
 
 **Official Languages**
 
@@ -53,14 +53,14 @@ Gold
 
 **Controlled Territories**
 
-*   [[Fasinter]]
+*   [[notes/Capital Cities/Fasinter]]
 
 **Neighboring Nations**
 
-*   [[Dirikian Empire]]
-*   [[Nablin]]
+*   [[notes/Kingdoms and Empires/Dirikian Empire]]
+*   [[notes/Kingdoms and Empires/Nablin]]
 
 **Related Ethnicities**
 
-*   [[Drandar]]
-*   [[Rohand]]
+*   [[notes/Cultures/Elf/Drandar]]
+*   [[notes/Cultures/Human/Rohand]]

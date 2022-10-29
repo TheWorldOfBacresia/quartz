@@ -6,8 +6,8 @@ The nomadic tribesmen of the Anor are a peaceful people, known for their wondero
 
 **Related Organizations**
 
-*   [[Conglomerate of Zaga]]
+*   [[notes/Kingdoms and Empires/Conglomerate of Zaga]]
 
 **Related Locations**
 
-*   [[Dacia]]
+*   [[notes/Continents/Dacia]]

@@ -1,4 +1,4 @@
-An independent nation, Nablin is named after the first Duke, Forynth Nablin. Duke Nablin took in the towns and villages which resisted becoming members of the expanding borders of the [[Dirikian Empire]] and [[Kingdom of Berya]].    
+An independent nation, Nablin is named after the first Duke, Forynth Nablin. Duke Nablin took in the towns and villages which resisted becoming members of the expanding borders of the [[notes/Kingdoms and Empires/Dirikian Empire]] and [[notes/Kingdoms and Empires/Kingdom of Berya]].    
 
 ##### Faction Details
 
@@ -16,7 +16,7 @@ Geopolitical, State
 
 **Capital**
 
-[[Velgekh]]
+[[notes/Capital Cities/Velgekh]]
 
 **Leader**
 
@@ -44,7 +44,7 @@ Market economy
 
 **Location**
 
-[[Valodur]]
+[[notes/Continents/Valodur]]
 
 **Official Languages**
 
@@ -57,11 +57,11 @@ Market economy
 
 **Neighboring Nations**
 
-*   [[Dirikian Empire]]
-*   [[Kingdom of Berya]]
+*   [[notes/Kingdoms and Empires/Dirikian Empire]]
+*   [[notes/Kingdoms and Empires/Kingdom of Berya]]
 
 **Related Ethnicities**
 
-*   [[Drandar]]
-*   [[Quenian]]
-*   [[Rohand]]
+*   [[notes/Cultures/Elf/Drandar]]
+*   [[notes/Cultures/Dwarf/Quenian]]
+*   [[notes/Cultures/Human/Rohand]]

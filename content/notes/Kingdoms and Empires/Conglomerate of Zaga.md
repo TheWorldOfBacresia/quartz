@@ -2,7 +2,7 @@ An alliance of townships and villages, the conglomerate of Zaga are a people wit
 
 ##### Faction Details
 
-Due to their aquatic nature, many of the ships (air and otherwise) are manned with crew that grew up within the borders of Zaga. Their "capital", [[South]] has a thriving network of docks, welcoming new and old ships alike. Along with these docks comes the taverns for the sailors to visit, making [[South]] the city with the highest tavern per person ration in [[Bacresia]].  
+Due to their aquatic nature, many of the ships (air and otherwise) are manned with crew that grew up within the borders of Zaga. Their "capital", [[notes/Capital Cities/South]] has a thriving network of docks, welcoming new and old ships alike. Along with these docks comes the taverns for the sailors to visit, making [[notes/Capital Cities/South]] the city with the highest tavern per person ration in [[Bacresia]].  
 
 ##### Cultural Perks
 
@@ -16,7 +16,7 @@ Corporation, Conglomerate
 
 **Capital**
 
-[[South]]
+[[notes/Capital Cities/South]]
 
 **Leader**
 
@@ -40,7 +40,7 @@ Gold
 
 **Location**
 
-[[Dacia]]
+[[notes/Continents/Dacia]]
 
 **Official Languages**
 
@@ -49,15 +49,15 @@ Gold
 
 **Controlled Territories**
 
-*   [[South]]
+*   [[notes/Capital Cities/South]]
 
 **Neighboring Nations**
 
-*   [[Draia]]
-*   [[Kingdom of Faymouth]]
+*   [[notes/Kingdoms and Empires/Draia]]
+*   [[notes/Kingdoms and Empires/Kingdom of Faymouth]]
 
 **Related Ethnicities**
 
-*   [[Anor]]
-*   [[Uruk]]
-*   [[Yotunn]]
+*   [[notes/Cultures/Human/Anor]]
+*   [[notes/Cultures/Orc/Uruk]]
+*   [[notes/Cultures/Dragonborn/Yotunn]]

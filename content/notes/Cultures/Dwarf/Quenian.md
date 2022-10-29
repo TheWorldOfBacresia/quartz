@@ -7,9 +7,9 @@ Industrialists at their core, Quenian dwarves are some of the greatest smiths an
 
 **Related Organizations**
 
-*   [[Dirikian Empire]]
-*   [[Nablin]]
+*   [[notes/Kingdoms and Empires/Dirikian Empire]]
+*   [[notes/Kingdoms and Empires/Nablin]]
 
 **Related Locations**
 
-*   [[Valodur]]
+*   [[notes/Continents/Valodur]]

@@ -1,5 +1,5 @@
 
-![](/assets/whitharf.jpg "Whitharf.jpg")
+![](assets/whitharf.jpg "Whitharf.jpg")
 
 **Type**
 
@@ -7,7 +7,7 @@ Capital
 
 **Owning Organization**
 
-[[Draia]]
+[[notes/Kingdoms and Empires/Draia]]
 
 ## Description
 Nestled at the foot of a sleeping volcano, Whitharf and her people are no strangers to the perils of living in a hostile environment. A city of metalworkers and stonemasons, each gives their time to protect and support the city, whether by keeping the city's infrastructure protected against the corrosive gasses that seep from the surrounding mountains or arming themselves to defend against the hordes of elementals which seem to accompany volcanic eruptions. Overlooking the city are two bronze titans, protectors of the city. 
@@ -22,7 +22,7 @@ Due to the unique appearance of elemental hordes which besiege the city on a qui
 
 
 ### Industry & Trade
-Home to a forging technique which is found nowhere else on the planet, Draian steel is an extremely hot commodity. Used in many specialist applications such as [[aethercore]] engines and high quality weapon manufacture, many smiths will travel to [[Kingdoms and Empires/Draia|Draia]] to learn about this amazing material 
+Home to a forging technique which is found nowhere else on the planet, Draian steel is an extremely hot commodity. Used in many specialist applications such as [[notes/Encyclopaedia/Aethercore]] engines and high quality weapon manufacture, many smiths will travel to [[notes/Kingdoms and Empires/Draia|Draia]] to learn about this amazing material 
 
 ### Infrastructure
 Constant ash clouds make air travel difficult, so much of the trade flowing through the city occurs via cargo ships or along the vast road network that covers the continent. Although often damaged by the earthquakes, these roads are quickly repaired and used by most on a daily basis.

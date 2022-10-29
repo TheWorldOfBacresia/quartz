@@ -3,9 +3,9 @@ Yotunn Dragonborn are a militaristic people, priding themselves on their staunch
 
 **Related Organizations**
 
-*   [[Conglomerate of Zaga]]
-*   [[Kingdom of Faymouth]]
+*   [[notes/Kingdoms and Empires/Conglomerate of Zaga]]
+*   [[notes/Kingdoms and Empires/Kingdom of Faymouth]]
 
 **Related Locations**
 
-*   [[Dacia]]
+*   [[notes/Continents/Dacia]]

@@ -17,7 +17,7 @@ Geopolitical, City-state
 
 **Capital**
 
-[[Whitharf]]
+[[notes/Capital Cities/Whitharf]]
 
 **Head of State**
 
@@ -41,7 +41,7 @@ Market economy
 
 **Location**
 
-[[Dacia]]
+[[notes/Continents/Dacia]]
 
 **Official Languages**
 
@@ -51,9 +51,9 @@ Market economy
 
 **Neighboring Nations**
 
-*   [[Conglomerate of Zaga]]
-*   [[Kingdom of Faymouth]]
+*   [[notes/Kingdoms and Empires/Conglomerate of Zaga]]
+*   [[notes/Kingdoms and Empires/Kingdom of Faymouth]]
 
 **Related Ethnicities**
 
-*   [[Dail]]
+*   [[notes/Cultures/Human/Dail]]

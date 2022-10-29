@@ -17,7 +17,7 @@ Geopolitical, Empire
 
 **Capital**
 
-[[Dirik]]
+[[notes/Capital Cities/Dirik]]
 
 **Demonym**
 
@@ -53,14 +53,14 @@ Gold
 
 **Location**
 
-[[Valodur]]
+[[notes/Continents/Valodur]]
 
 **Neighboring Nations**
 
-*   [[Kingdom of Berya]]
-*   [[Nablin]]
+*   [[notes/Kingdoms and Empires/Kingdom of Berya]]
+*   [[notes/Kingdoms and Empires/Nablin]]
 
 **Related Ethnicities**
 
-*   [[Drandar]]
-*   [[Quenian]]
+*   [[notes/Cultures/Elf/Drandar]]
+*   [[notes/Cultures/Dwarf/Quenian]]

@@ -8,9 +8,9 @@ From the south east, Rohandi are natural scholars. Emphasising the importance of
 
 **Related Organizations**
 
-*   [[Kingdom of Berya]]
-*   [[Nablin]]
+*   [[notes/Kingdoms and Empires/Kingdom of Berya]]
+*   [[notes/Kingdoms and Empires/Nablin]]
 
 **Related Locations**
 
-*   [[Valodur]]
+*   [[notes/Continents/Valodur]]

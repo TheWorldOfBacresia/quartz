@@ -1,11 +1,11 @@
 ### History
 
-Aetherware (a portmanteau of aether and hardware) is a top secret research project currently being developed by Dr Foveen Inkehill, senior researcher at [[The Alchemist Guild]]. Building on top of pre-existing prosthetic technology,  the aim of the project is to enhance the abilities of their subjects beyond their normal humanoid capabilities.
+Aetherware (a portmanteau of aether and hardware) is a top secret research project currently being developed by Dr Foveen Inkehill, senior researcher at [[notes/Guilds and Organisations/The Alchemist Guild]]. Building on top of pre-existing prosthetic technology,  the aim of the project is to enhance the abilities of their subjects beyond their normal humanoid capabilities.
 One of the blackest of black projects, very few within the guild are even aware of the projects existence, with access to the research data kept on a need to know basis.
 
 *"Finally! After years of hard work we have finally had a breakthrough! Readings in the subject were stable and even with early prototype arm augments their strength increased by almost 46% compared to previous tests. Subject is showing some considerable signs of soulburn but we shall overcome that obstacle with time"* - An excerpt from Dr Inkrhill's research diary, 14th Asm. 928EE
 
-Unlike the prosthetics used by amputees across Bacresia daily, Aetherware's massive power consumption requires an energy source both powerful enough whilst being light enough to not hinder the user. Early prototypes used [[Aethercore]]s, however the fragility of them, along with bulky size required for appropriate energy storage made unsuitable for this application.
+Unlike the prosthetics used by amputees across Bacresia daily, Aetherware's massive power consumption requires an energy source both powerful enough whilst being light enough to not hinder the user. Early prototypes used [[notes/Encyclopaedia/Aethercore]]s, however the fragility of them, along with bulky size required for appropriate energy storage made unsuitable for this application.
 
 After months of dead ends and unsatisfactory results, they finally found the answer; Soulgate 
 

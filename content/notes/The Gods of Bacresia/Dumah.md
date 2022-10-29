@@ -1,4 +1,4 @@
-Dumah the Dreamer is the patron deity of doctors and healers and a member of The Pantheon of Creation. Skilled in bending the subconscious, she created [[The Golden Sea]], a dream realm in which the soul may explore while the body sleeps. Those who returned from [[The Golden Sea]] are said to have found their wounds healing with expediency and their moods elevated, although most often forget their experience upon waking. Since leaving [[Bacresia]], the ability to enter [[The Golden Sea]] while asleep has become more and more difficult, and followers of Dumah often make it their life goal to enter [[The Golden Sea]] at least once in their lifetime.
+Dumah the Dreamer is the patron deity of doctors and healers and a member of The Pantheon of Creation. Skilled in bending the subconscious, she created [[notes/Encyclopaedia/The Golden Sea]], a dream realm in which the soul may explore while the body sleeps. Those who returned from [[notes/Encyclopaedia/The Golden Sea]] are said to have found their wounds healing with expediency and their moods elevated, although most often forget their experience upon waking. Since leaving [[Bacresia]], the ability to enter [[notes/Encyclopaedia/The Golden Sea]] while asleep has become more and more difficult, and followers of Dumah often make it their life goal to enter [[notes/Encyclopaedia/The Golden Sea]] at least once in their lifetime.
 
 ### Divine Domains
 
@@ -8,7 +8,7 @@ Grave
 
 ### Divine Symbols & Sigils
 
-Followers of Dumah will often wear a golden scarf around their neck or as a headscarf as a sign of thanks for [[The Golden Sea]]
+Followers of Dumah will often wear a golden scarf around their neck or as a headscarf as a sign of thanks for [[notes/Encyclopaedia/The Golden Sea]]
 
 ### Tenets of Faith
 

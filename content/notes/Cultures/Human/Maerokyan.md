@@ -6,8 +6,8 @@ People of the lost desert empire, those with apparent Maerokyan ancestors excel 
 
 **Related Organizations**
 
-*   [[Maerokyan Empire]]
+*   [[notes/Kingdoms and Empires/Maerokyan Empire]]
 
 **Related Locations**
 
-*   [[Dacia]]
+*   [[notes/Continents/Dacia]]

@@ -6,10 +6,10 @@ The Uruk are people of the sea. Whether as fisherman or as a ships crew the Uruk
 
 **Related Organizations**
 
-*   [[Conglomerate of Zaga]]
-*   [[Kingdom of Faymouth]]
+*   [[notes/Kingdoms and Empires/Conglomerate of Zaga]]
+*   [[notes/Kingdoms and Empires/Kingdom of Faymouth]]
 
 **Related Locations**
 
-*   [[Central Archipelago]]
-*   [[Dacia]]
+*   [[notes/Continents/Central Archipelago]]
+*   [[notes/Continents/Dacia]]

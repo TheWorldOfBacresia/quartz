@@ -6,8 +6,8 @@ Hailing from the grasslands north of "The great sand sea" of The Spice Deserts, 
 
 **Related Organizations**
 
-*   [[Kingdom of Faymouth]]
+*   [[notes/Kingdoms and Empires/Kingdom of Faymouth]]
   
 **Related Locations**
 
-*   [[Dacia]]
+*   [[notes/Continents/Dacia]]

@@ -1,35 +1,35 @@
 ### Capital Cities
-[[Dirik]]
+[[notes/Capital Cities/Dirik]]
 
-[[Fasinter]]
+[[notes/Capital Cities/Fasinter]]
 
-[[Faymouth]]
+[[notes/Capital Cities/Faymouth]]
 
-[[South]]
+[[notes/Capital Cities/South]]
 
-[[The Grand Citadel of Kharia]]
+[[notes/Capital Cities/The Grand Citadel of Kharia]]
 
-[[Velgekh]]
+[[notes/Capital Cities/Velgekh]]
 
-[[Whitharf]]
+[[notes/Capital Cities/Whitharf]]
 
 ### Continents
-[[Central Archipelago]]
+[[notes/Continents/Central Archipelago]]
 
-[[Dacia]]
+[[notes/Continents/Dacia]]
 
-[[Valodur]]
+[[notes/Continents/Valodur]]
 
 
 ### Places of Interest & Natural Wonders
-[[Gheshault's Spires]]
+[[notes/Places of Interest  Natural Wonders/Gheshault's Spires]]
 
-[[The Jangwa Desert]]
+[[notes/Places of Interest  Natural Wonders/The Jangwa Desert]]
 
-[[The Singing Canopy]]
+[[notes/Places of Interest  Natural Wonders/The Singing Canopy]]
 
-[[The Tree of Life]]
+[[notes/Places of Interest  Natural Wonders/The Tree of Life]]
 
-[[Titanic Bone Caves]]
+[[notes/Places of Interest  Natural Wonders/Titanic Bone Caves]]
 
 

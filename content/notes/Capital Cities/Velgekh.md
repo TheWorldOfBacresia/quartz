@@ -1,5 +1,5 @@
 
-![](/assets/velgekh.jpg "Velgekh.jpg")<img src=""/>
+![](assets/velgekh.jpg "Velgekh.jpg")<img src=""/>
 
 **Type**
 
@@ -7,14 +7,14 @@ Capital
 
 **Owning Organization**
 
-[[Nablin]]
+[[notes/Kingdoms and Empires/Nablin]]
 
 ## Description
-The city of a hundred towers, Velgekh considers itself the only truly free city in [[Bacresia]]. It's people enjoy an unprecedented amount of freedom and are welcome to to conduct themselves in any manor which does not directly harm others. As with most rules however there are many who a happy to bend them and as such Velgekh has a reputation for being the usual destination for those with more questionable ethics. Because of this however, [[Kingdoms and Empires/Nablin|Nablin]] weapons and medical programs have always been at the pinnacle of research.
+The city of a hundred towers, Velgekh considers itself the only truly free city in [[Bacresia]]. It's people enjoy an unprecedented amount of freedom and are welcome to to conduct themselves in any manor which does not directly harm others. As with most rules however there are many who a happy to bend them and as such Velgekh has a reputation for being the usual destination for those with more questionable ethics. Because of this however, [[notes/Kingdoms and Empires/Nablin|Nablin]] weapons and medical programs have always been at the pinnacle of research.
 
 
 ### Demographics
-Mostly made up of Dwarves and Humans, there are a small number of Elves who call the city their home. Nearly all of the inhabitants of Velgekh can trace their linage back to the original population who fought in the second guild war and are directly responsible for the creation of [[Nablin]]
+Mostly made up of Dwarves and Humans, there are a small number of Elves who call the city their home. Nearly all of the inhabitants of Velgekh can trace their linage back to the original population who fought in the second guild war and are directly responsible for the creation of [[notes/Kingdoms and Empires/Nablin]]
 
 
 ### Defences
@@ -22,7 +22,7 @@ Having a long tradition of working with outsiders for defence, the city is prima
 
 
 ### Industry & Trade
-With most of [[Kingdoms and Empires/Nablin|Nablin]]'s lands incredibly fertile, much of Velgekh's economy is based around the exporting of food throughout the continent, being used to feed both the [[Kingdom of Berya]] and [[Dirikian Empire]]. The necessity of these food imports is what gives the city and nation the political influence to stop themselves being swallowed by either of the great nations. 
+With most of [[notes/Kingdoms and Empires/Nablin|Nablin]]'s lands incredibly fertile, much of Velgekh's economy is based around the exporting of food throughout the continent, being used to feed both the [[notes/Kingdoms and Empires/Kingdom of Berya]] and [[notes/Kingdoms and Empires/Dirikian Empire]]. The necessity of these food imports is what gives the city and nation the political influence to stop themselves being swallowed by either of the great nations. 
 
 
 ### Infrastructure
@@ -31,5 +31,5 @@ As a city with unrivalled verticality, Nablini craftsmen and artificers spent de
 
 ### Guilds and Factions
 
-*   [[The Alchemist Guild]]
+*   [[notes/Guilds and Organisations/The Alchemist Guild]]
 

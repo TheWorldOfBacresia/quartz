@@ -10,7 +10,7 @@ Capital
 
 **Owning Organization**
 
-[[Kingdom of Faymouth]]
+[[notes/Kingdoms and Empires/Kingdom of Faymouth]]
 
 ## Description
 Born from ruins of the old Elven city, the capital city of the realm is a central trade hub for the west, importing and exporting good from across [[Bacresia]]. Anything and everything is available within these borders, leading to a thriving black market. The [[Darkforest Isles]] to the north bring researchers and zoologists from around the world, flocking there to observe the unique habitats and creatures that reside there. The kingdom is protected by the native Dragonborn, using their natural leadership and strength to protect the trade caravans which travel across the continent.
@@ -20,7 +20,7 @@ The great trade city has a varied demographic, filled with an assortment of peop
 
 
 ### Defences
-A considerable navy defends many of the more wealthy shipping lines in and out of Faymouth, helping to drive off any opportunistic privateers hoping to plunder the riches crossing the seas to the east. Inland, the city is protected by the city guard, many of whom are mercenaries from [[The Adventurer's Guild]]
+A considerable navy defends many of the more wealthy shipping lines in and out of Faymouth, helping to drive off any opportunistic privateers hoping to plunder the riches crossing the seas to the east. Inland, the city is protected by the city guard, many of whom are mercenaries from [[notes/Guilds and Organisations/The Adventurer's Guild]]
 
 
 ### Industry & Trade
@@ -28,7 +28,7 @@ Due to the sheer amount of trade occurring within it's walls, the city's entire 
 
 ### Infrastructure
 
-The city's docks are open around the clock, bringing goods too and from the city at a pace not seen anywhere else in Bacresia. Unlike the [[aethercore]] powered machines, goods are transported throughout the city by more traditional means. 
+The city's docks are open around the clock, bringing goods too and from the city at a pace not seen anywhere else in Bacresia. Unlike the [[notes/Encyclopaedia/Aethercore]] powered machines, goods are transported throughout the city by more traditional means. 
 
 
 ### Districts
@@ -92,6 +92,6 @@ Having once thought to house a magical portal to the Faewilds, the Fairy Yard bo
 
 ### Guilds and Factions
 
-[[Alabaster Trading Company]]
+[[notes/Guilds and Organisations/Alabaster Trading Company]]
 
-[[The Adventurer's Guild]]
+[[notes/Guilds and Organisations/The Adventurer's Guild]]

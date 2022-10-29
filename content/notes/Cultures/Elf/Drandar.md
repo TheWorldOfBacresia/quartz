@@ -7,10 +7,10 @@ The culture found centre of the Eastern continent, the Drandar people are worker
 
 **Related Organizations**
 
-*   [[Dirikian Empire]]
-*   [[Kingdom of Berya]]
-*   [[Nablin]]
+*   [[notes/Kingdoms and Empires/Dirikian Empire]]
+*   [[notes/Kingdoms and Empires/Kingdom of Berya]]
+*   [[notes/Kingdoms and Empires/Nablin]]
 
 **Related Locations**
 
-*   [[Valodur]]
+*   [[notes/Continents/Valodur]]

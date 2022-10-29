@@ -1,5 +1,5 @@
 Gabriel the Shepard is the patron deity of peacekeepers and keepers of law and is at the head of The Pantheon of Creation. Instantly recognisable by his snow white feathers and golden wings and tails, Gabriel is seen as the overseer of the other Gods and continues to ensure that their power and influence is kept balanced. Also known as The Oathkeeper, the old stores tell the tale of Gabriel once risking his own life to keep his promise of protecting the people of [[Bacresia]]. During the creation of [[Bacresia]] and her people, it was Gabriel who breathed life into their bodies, sharing with all the planet's people his divine spark.
-In an effort to continue Gabriel's will, [[The Order of Golden Judgment]] was created to protect Bacresia in Gabriel's absence.
+In an effort to continue Gabriel's will, [[notes/Encyclopaedia/The Order of Golden Judgment]] was created to protect Bacresia in Gabriel's absence.
 
 ### Divine Domains
  
