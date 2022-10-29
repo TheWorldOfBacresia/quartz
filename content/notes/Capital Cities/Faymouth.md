@@ -13,7 +13,7 @@ Capital
 [[notes/Kingdoms and Empires/Kingdom of Faymouth]]
 
 ## Description
-Born from ruins of the old Elven city, the capital city of the realm is a central trade hub for the west, importing and exporting good from across [[Bacresia]]. Anything and everything is available within these borders, leading to a thriving black market. The [[Darkforest Isles]] to the north bring researchers and zoologists from around the world, flocking there to observe the unique habitats and creatures that reside there. The kingdom is protected by the native Dragonborn, using their natural leadership and strength to protect the trade caravans which travel across the continent.
+Born from ruins of the old Elven city, the capital city of the realm is a central trade hub for the west, importing and exporting good from across [[notes/Bacresia]]. Anything and everything is available within these borders, leading to a thriving black market. The [[Darkforest Isles]] to the north bring researchers and zoologists from around the world, flocking there to observe the unique habitats and creatures that reside there. The kingdom is protected by the native Dragonborn, using their natural leadership and strength to protect the trade caravans which travel across the continent.
 
 ### Demographics
 The great trade city has a varied demographic, filled with an assortment of people form all over the world. Dragonborn and Orcs from the east are common sights on the streets, as well as wood elves whose ancestors travelled to the mainland from the [[Darkforest Isles]] centuries ago. As with most places on the planet humans seem to have taken up residence in the city, joined by a smaller number of Goblins and Tieflings from the north.  
@@ -49,7 +49,7 @@ Once the home to the kingdom's legions, Knightsbridge now houses the more wealth
 The industrial heart of the city, East Gate is the district that never sleeps. Dockworkers unload raw materials around the clock while smugglers sneak their wares between shipments.
 
 #### The Docks
-The lifeblood of the city, the Breaddocks and Ghostdocks work throughout the night to load and unload cargo from the non-stop aerial and sea bound vessels of [[Bacresia]].  
+The lifeblood of the city, the Breaddocks and Ghostdocks work throughout the night to load and unload cargo from the non-stop aerial and sea bound vessels of [[notes/Bacresia]].  
 
 #### Fairy Yard
 Having once thought to house a magical portal to the Faewilds, the Fairy Yard boats a large number of magical and mundane shops mainly aimed at visitors. It's also home to one of the best magical tattooists in the realm 

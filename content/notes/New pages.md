@@ -1,1 +1,1 @@
-[[Wildspace/Wildspace]] 
+[[notes/Wildspace/Wildspace]] 

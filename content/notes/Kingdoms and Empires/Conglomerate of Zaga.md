@@ -2,7 +2,7 @@ An alliance of townships and villages, the conglomerate of Zaga are a people wit
 
 ##### Faction Details
 
-Due to their aquatic nature, many of the ships (air and otherwise) are manned with crew that grew up within the borders of Zaga. Their "capital", [[notes/Capital Cities/South]] has a thriving network of docks, welcoming new and old ships alike. Along with these docks comes the taverns for the sailors to visit, making [[notes/Capital Cities/South]] the city with the highest tavern per person ration in [[Bacresia]].  
+Due to their aquatic nature, many of the ships (air and otherwise) are manned with crew that grew up within the borders of Zaga. Their "capital", [[notes/Capital Cities/South]] has a thriving network of docks, welcoming new and old ships alike. Along with these docks comes the taverns for the sailors to visit, making [[notes/Capital Cities/South]] the city with the highest tavern per person ration in [[notes/Bacresia]].  
 
 ##### Cultural Perks
 

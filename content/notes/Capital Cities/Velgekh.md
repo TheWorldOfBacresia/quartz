@@ -10,7 +10,7 @@ Capital
 [[notes/Kingdoms and Empires/Nablin]]
 
 ## Description
-The city of a hundred towers, Velgekh considers itself the only truly free city in [[Bacresia]]. It's people enjoy an unprecedented amount of freedom and are welcome to to conduct themselves in any manor which does not directly harm others. As with most rules however there are many who a happy to bend them and as such Velgekh has a reputation for being the usual destination for those with more questionable ethics. Because of this however, [[notes/Kingdoms and Empires/Nablin|Nablin]] weapons and medical programs have always been at the pinnacle of research.
+The city of a hundred towers, Velgekh considers itself the only truly free city in [[notes/Bacresia]]. It's people enjoy an unprecedented amount of freedom and are welcome to to conduct themselves in any manor which does not directly harm others. As with most rules however there are many who a happy to bend them and as such Velgekh has a reputation for being the usual destination for those with more questionable ethics. Because of this however, [[notes/Kingdoms and Empires/Nablin|Nablin]] weapons and medical programs have always been at the pinnacle of research.
 
 
 ### Demographics

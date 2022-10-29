@@ -2,7 +2,7 @@ Western kingdom ruled by Queen Faerona, where gold and trade flow like the water
 
 #### Faction Details
 
-Born from ruins of the old Elven city, [[notes/Capital Cities/Faymouth]], the capital city of the realm is a central trade hub for the west, importing and exporting good from across [[Bacresia]]. Anything and everything is available within these borders. Because of this, a thriving black market exists, drawing in all sorts of unsavoury types. The spice islands to the north bring chefs and culinarians from around the world, many hoping to discover the next secret ingredient for their signature dish. The kingdom is protected by the native Dragonborn, using their natural leadership and strength to protect the trade caravans.  
+Born from ruins of the old Elven city, [[notes/Capital Cities/Faymouth]], the capital city of the realm is a central trade hub for the west, importing and exporting good from across [[notes/Bacresia]]. Anything and everything is available within these borders. Because of this, a thriving black market exists, drawing in all sorts of unsavoury types. The spice islands to the north bring chefs and culinarians from around the world, many hoping to discover the next secret ingredient for their signature dish. The kingdom is protected by the native Dragonborn, using their natural leadership and strength to protect the trade caravans.  
 
 #### Cultural Perks
 

@@ -14,30 +14,30 @@
 [[notes/Kingdoms and Empires/Nablin]]
 
 
-## The Gods of [[Bacresia]]
-[[Asmodel]]
+## The Gods of [[notes/Bacresia]]
+[[notes/The Gods of Bacresia/Asmodel]]
 
-[[Dumah]]
+[[notes/The Gods of Bacresia/Dumah]]
 
 [[Gabriel]]
 
-[[Liliel]]
+[[notes/The Gods of Bacresia/Liliel]]
 
-[[Ramiel]]
+[[notes/The Gods of Bacresia/Ramiel]]
 
-[[Raziel]]
+[[notes/The Gods of Bacresia/Raziel]]
 
-[[Remph]]
+[[notes/The Gods of Bacresia/Remph]]
 
-[[Sahaqiel]]
+[[notes/The Gods of Bacresia/Sahaqiel]]
 
-[[Turiel]]
+[[notes/The Gods of Bacresia/Turiel]]
 
 
 ## Wildspace
-[[Wildspace]]
+[[notes/Wildspace/Wildspace]]
 
-[[Oberon & Titania]]
+[[notes/Wildspace/Oberon & Titania]]
 
 
 ## Guilds and Organisations

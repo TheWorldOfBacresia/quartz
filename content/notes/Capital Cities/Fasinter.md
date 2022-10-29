@@ -22,7 +22,7 @@ The defences of Fasinter have continued to grow as the city itself has expanded 
 
 ### Industry & Trade
 
-A city built upon industry and trade, Fasinter's industrial and trade districts are some of the largest in the world, housing vast factories and warehouses filled with all sorts of goods ready to be sent across [[Bacresia]]. Located deeper within the city limits, beyond the market and factory quarters you will find a large district filled with tall and glistening towers. Often the centre of many of the mishaps in the city, the magic and alchemy district of Fasinter is the home to many of the magical guilds of [[Bacresia]], by far the largest being [[notes/Guilds and Organisations/The Alchemist Guild|The Alchemist guild]].
+A city built upon industry and trade, Fasinter's industrial and trade districts are some of the largest in the world, housing vast factories and warehouses filled with all sorts of goods ready to be sent across [[notes/Bacresia]]. Located deeper within the city limits, beyond the market and factory quarters you will find a large district filled with tall and glistening towers. Often the centre of many of the mishaps in the city, the magic and alchemy district of Fasinter is the home to many of the magical guilds of [[notes/Bacresia]], by far the largest being [[notes/Guilds and Organisations/The Alchemist Guild|The Alchemist guild]].
 
 ### Infrastructure
 

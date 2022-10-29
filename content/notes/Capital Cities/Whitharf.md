@@ -18,7 +18,7 @@ Due to the harsh and inhospitable lands, most of of the original inhabitants of 
 
 
 ### Defences
-Due to the unique appearance of elemental hordes which besiege the city on a quinquennial basis, Whitharf is by far the most well defended of all of the capital cities of [[Bacresia]]. The city walls themselves sit at 30ft, with defensive towers overlooking the city and it's surrounding lands. To help repel any invaders, the city guard are outfitted and trained as a standing army, ready to come to the city's defence at a moments notice. 
+Due to the unique appearance of elemental hordes which besiege the city on a quinquennial basis, Whitharf is by far the most well defended of all of the capital cities of [[notes/Bacresia]]. The city walls themselves sit at 30ft, with defensive towers overlooking the city and it's surrounding lands. To help repel any invaders, the city guard are outfitted and trained as a standing army, ready to come to the city's defence at a moments notice. 
 
 
 ### Industry & Trade
