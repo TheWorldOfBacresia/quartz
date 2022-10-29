@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Dean Zammit
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -15,10 +15,9 @@ GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  The wiki for The World of Bacresia and the RPG games played in it
 page_title:
-  "🪴 Quartz 3.3"
+  "The World of Bacresia"
 links:
   - link_name: Twitter
     link: https://twitter.com/_jzhao
