@@ -1,3 +1,5 @@
+# Remph
+
 Remph, The Weaver of Time is one of the oldest of The Pantheon of Creation, having existed since soon after the creation of the universe. Able to see the past, present and future all at once makes his speech often cryptic and nonsensical, understood only by those who are able to view time's true nature like himself. Although interacting little with people of [[notes/Bacresia]], periods in which he has brought about the study of divination and birthed the bloodline of seers which still exists to this day.
 
 ### Divine Domains

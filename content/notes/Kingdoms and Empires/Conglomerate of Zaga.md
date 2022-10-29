@@ -1,3 +1,6 @@
+# Conglomerate of Zaga 
+
+
 An alliance of townships and villages, the conglomerate of Zaga are a people with deep spiritual beliefs and a strong connection to the sea.  
 
 ##### Faction Details

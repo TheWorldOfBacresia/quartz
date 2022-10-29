@@ -1,3 +1,6 @@
+# Bacresia Historical Artefact Society 
+
+
 An offshoot of the Adventurers Guild, the [[notes/Bacresia]] Historical Artefact Society is an organisation dedicated to the discovery and acquisition of relic and artefacts of eras past. Relying on a contract-based system of job postings, members of the BHAS (colloquially known as the Treasure Hunters guild) will sign themselves up for a job either as an individual or group, depending on the rank the given to the contract. Unless specified in the contract terms, upon completion of the contract the item requested it delivered to the client, with any additional items acquired becoming property of the group who found them. As facilitators of the transaction, the BHAS takes a fee from the client, along with 5% of the GP value of any other collected artefacts.   BHAS contracts are ranked as follows:  
 
 *   **D Rank**  

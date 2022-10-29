@@ -1,4 +1,4 @@
-
+# Dirik
 
 ![[/notes/assets/dirik.jpg]]
 

@@ -1,3 +1,5 @@
+# Ramiel
+
 Ramiel the Forest Watcher is the patron deity of the Wood Elves of [[notes/Bacresia]] and the guardian of the great forests of Valoldur. A member of The Pantheon of Creation, Ramiel planted the flora which nourished the land and supported life on [[notes/Bacresia]]. Along with her devotion to nature, Ramiel has always had a strong connection with the Fae and with their permission, taught the Wood Elves who inhabited her forests the secrets of Sylvan. To ensure the protection of her creations should she ever have to abandon her forest, she created the Dryads, Centaurs and Treants to act as guardians in her stead and killing these creatures is often seen by followers of Ramiel as heinous crimes.
 
 ### Divine Domains

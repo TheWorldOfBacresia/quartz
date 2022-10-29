@@ -1,3 +1,6 @@
+# Kingdom of Berya
+
+
 Southern kingdom of science and magic. Ruled by King Lionfire, it is the home of the home to the majority of Eastern humans, as well as a mixture of the other races.  
 
 ##### Faction Details

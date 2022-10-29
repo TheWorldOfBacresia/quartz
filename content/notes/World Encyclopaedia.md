@@ -1,3 +1,5 @@
+# World Encyclopaedia
+
 ## Kingdoms and Empires
 [[notes/Kingdoms and Empires/Conglomerate of Zaga]]
 
@@ -14,7 +16,7 @@
 [[notes/Kingdoms and Empires/Nablin]]
 
 
-## The Gods of [[notes/Bacresia]]
+## The Gods of Bacresia
 [[notes/The Gods of Bacresia/Asmodel]]
 
 [[notes/The Gods of Bacresia/Dumah]]
@@ -51,6 +53,7 @@
 
 
 ## Cultures
+
 #### Dragonborn
 [[notes/Cultures/Dragonborn/Yotunn]]
 

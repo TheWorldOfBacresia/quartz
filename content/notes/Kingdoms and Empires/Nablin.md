@@ -1,3 +1,6 @@
+# Nablin
+
+
 An independent nation, Nablin is named after the first Duke, Forynth Nablin. Duke Nablin took in the towns and villages which resisted becoming members of the expanding borders of the [[notes/Kingdoms and Empires/Dirikian Empire]] and [[notes/Kingdoms and Empires/Kingdom of Berya]].    
 
 ##### Faction Details

@@ -1,3 +1,6 @@
+# Kingdom of Faymouth
+
+
 Western kingdom ruled by Queen Faerona, where gold and trade flow like the water of the surrounding seas.  
 
 #### Faction Details

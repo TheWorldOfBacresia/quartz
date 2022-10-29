@@ -1,3 +1,4 @@
+# Central Archipelago
 
 [![](notes/assets/central%20islands.jpg "Southern Sun Isles.jpg")](/i/2481300 "Southern Sun Isles.jpg")
 

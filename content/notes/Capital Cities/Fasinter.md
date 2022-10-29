@@ -1,3 +1,4 @@
+# Fasinter
 
 ![[notes/assets/fasinter.jpg]]
 **Type**

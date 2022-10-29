@@ -1,3 +1,4 @@
+# The Adventurers Guild 
 
 
 Originally founded just outside the city of [[notes/Capital Cities/Faymouth]], The Adventurers Guild is one of the largest multi-nation organisations in [[notes/Bacresia]]. Formed after the second guild war, it's purpose was to act as a support network for beginner and veteran adventurers and act as arbiters on the behalf of the adventuring community.  

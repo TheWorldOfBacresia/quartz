@@ -1,3 +1,6 @@
+# Dirikian Empire 
+
+
 North eastern empire. Known for both dwarven and elven crafts and a strong industry. Moderate use of magic by government.  
 
 ##### Faction Details

@@ -1,3 +1,6 @@
+# Atlas 
+
+
 ### Capital Cities
 [[notes/Capital Cities/Dirik]]
 
@@ -22,7 +25,7 @@
 
 
 ### Places of Interest & Natural Wonders
-[[notes/Places of Interest  Natural Wonders/Gheshault's Spires]]
+[[notes/Places of Interest  Natural Wonders/Gheshaults Spires]]
 
 [[notes/Places of Interest  Natural Wonders/The Jangwa Desert]]
 

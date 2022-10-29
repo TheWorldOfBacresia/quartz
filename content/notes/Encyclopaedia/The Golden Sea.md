@@ -1,3 +1,6 @@
+# The Golden Sea
+
+
 ![](assets/thegoldensea.png "thegoldensea.png")
 
 The Golden Sea is a magical, dream-like world which exists within the material plane. Said to be where the souls of the dead go, it is believed that The Golden Sea was created long before [[notes/Bacresia]] or even her Gods. For centuries disciples of [[notes/The Gods of Bacresia/Dumah]] would often visit The Golden Sea while dreaming, communing with the spirits of those who came before and their Patron Goddess, passing on her teachings. As the only people naturally able to enter the sea, some followers of [[notes/The Gods of Bacresia/Dumah]] were tasked with protecting it, becoming known as [[Dream Guardians]].

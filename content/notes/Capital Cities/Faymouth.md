@@ -1,4 +1,4 @@
-
+# Faymouth
 ![[notes/assets/faymouth.jpg]]
 
 **Type**
