@@ -14,7 +14,7 @@ The moons Oberon and Titania embroidered in silver thread, often seen intersecti
 
 _"Often when it is darkest is when one must look hardest for the light"_
 
-![](assets/liliel.jpg)
+![](notes/assets/liliel.jpg)
 
 **Divine Classification**
 

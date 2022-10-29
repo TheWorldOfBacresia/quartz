@@ -15,7 +15,7 @@ The flaming circle surrounding a tome.
 
 _"Knowledge is power. Though power we might protect all that is important to us."_
 
-![](assets/Raziel.jpg)
+![](notes/assets/Raziel.jpg)
 
 **Divine Classification**
 

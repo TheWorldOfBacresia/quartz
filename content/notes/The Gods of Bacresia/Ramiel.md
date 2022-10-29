@@ -14,7 +14,7 @@ The crescent moon inside a point down triangle is used by Druids of Ramiel to sy
 
 _"From the earth we come and to the earth we shall return. Life is but a moment in which we are not a part of the universe itself"_
 
-![](assets/Ramiel.jpg)
+![](notes/assets/Ramiel.jpg)
 
 **Divine Classification**
 

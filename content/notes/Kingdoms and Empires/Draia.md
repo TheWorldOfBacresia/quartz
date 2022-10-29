@@ -9,7 +9,7 @@ Originally founded by shipwrecked humans from the East, the city and it's surrou
 Continuing the ancient traditions, members of the city state are expected to fight for what they want, resulting in a far more aggressive and dictatorial way of life.
 
 
-![](assets/draia.jpg)
+![](notes/assets/draia.jpg)
 
 **Type**
 

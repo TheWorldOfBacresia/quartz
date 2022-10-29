@@ -1,5 +1,5 @@
-![](assets/fasinter.jpg "Fasinter.jpg")
 
+![[notes/assets/fasinter.jpg]]
 **Type**
 
 Capital

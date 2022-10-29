@@ -8,7 +8,7 @@ Due to their aquatic nature, many of the ships (air and otherwise) are manned wi
 
 A strong community spirit and natural teamwork makes Zaga citizens incredibly hospitable, however word of troublemakers or other unsavoury types travels fast between towns. Travelers are advised to ensure they don't gain a bad reputation when within the conglomerates borders.
 
-![](assets/Zaga.jpg)
+![](notes/assets/Zaga.jpg)
 
 **Type**
 

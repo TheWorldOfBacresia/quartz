@@ -1,5 +1,5 @@
 
-![](assets/velgekh.jpg "Velgekh.jpg")<img src=""/>
+![](notes/assets/velgekh.jpg "Velgekh.jpg")<img src=""/>
 
 **Type**
 

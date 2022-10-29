@@ -14,7 +14,7 @@ A golden serpent
 
 _"Things are not always as they appear, for fool's gold is often found near the real thing"_
 
-![](assets/turiel.jpg)
+![](notes/assets/turiel.jpg)
 
 **Divine Classification**
 

@@ -9,7 +9,7 @@ Founded as a cooperation between Quenian Dwarves and Drandar Elves, the borders 
 Personal freedoms are respected within the empire, however towns are expected to swear loyalty to the Empress
 
 
-![](assets/dirikianempiremap.jpg)
+![](notes/assets/dirikianempiremap.jpg)
 
 **Type**
 

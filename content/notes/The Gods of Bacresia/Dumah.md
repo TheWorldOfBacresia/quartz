@@ -14,7 +14,7 @@ Followers of Dumah will often wear a golden scarf around their neck or as a head
 
 _"One must always follow their dream, for without a dream one has nothing"_
 
-![](assets/Dumah.jpg)
+![](notes/assets/Dumah.jpg)
 
 **Divine Classification**
 

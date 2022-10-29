@@ -8,7 +8,7 @@ Born from ruins of the old Elven city, [[notes/Capital Cities/Faymouth]], the ca
 
 The coming and going of so many different trade ships means that ideas and cultures are easily shared and spread within the borders. Because of this, people are far more welcoming to outsiders. This melding of cultures has also made it the home of The Royal Bard College.
 
-![](assets/Faymouthmap.jpg)
+![](notes/assets/Faymouthmap.jpg)
 
 **Capital**
 

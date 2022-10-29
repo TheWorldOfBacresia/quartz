@@ -1,5 +1,5 @@
 
-![](assets/whitharf.jpg "Whitharf.jpg")
+![](notes/assets/whitharf.jpg "Whitharf.jpg")
 
 **Type**
 

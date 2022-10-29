@@ -45,7 +45,7 @@
 
 [[notes/Guilds and Organisations/Bacresia Historical Artefact Society]]
 
-[[notes/Guilds and Organisations/The Adventurer's Guild]]
+[[notes/Guilds and Organisations/The Adventurers Guild]]
 
 [[notes/Guilds and Organisations/The Alchemist Guild]]
 

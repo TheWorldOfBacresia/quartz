@@ -1,5 +1,5 @@
 
-[![](assets/desertcitadel.jpg "mack-sztaba-desert-citadel.jpg")](/i/2939536 "mack-sztaba-desert-citadel.jpg")
+[![notes/assets/s/desertcitadel.jpg "mack-sztaba-desert-citadel.jpg")](/i/2939536 "mack-sztaba-desert-citadel.jpg")
 
 ### History
 
@@ -7,7 +7,7 @@
 
 ### Quarters
 
-[![](assets/Kharia%20city%20map.jpg "the_grand_citadel_of_kharia.jpg")](/i/2951689 "the_grand_citadel_of_kharia.jpg")
+[![](notes/assets/Kharinotes/assets/y%20map.jpg "the_grand_citadel_of_kharia.jpg")](/i/2951689 "the_grand_citadel_of_kharia.jpg")
 
 #### Nights Borough
 

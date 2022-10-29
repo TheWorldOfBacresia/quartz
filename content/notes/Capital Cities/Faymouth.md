@@ -1,8 +1,5 @@
 
-
-
-![](assets/faymouth.jpg "faymouth.jpg")
-
+![[notes/assets/faymouth.jpg]]
 
 **Type**
 
@@ -20,7 +17,7 @@ The great trade city has a varied demographic, filled with an assortment of peop
 
 
 ### Defences
-A considerable navy defends many of the more wealthy shipping lines in and out of Faymouth, helping to drive off any opportunistic privateers hoping to plunder the riches crossing the seas to the east. Inland, the city is protected by the city guard, many of whom are mercenaries from [[notes/Guilds and Organisations/The Adventurer's Guild]]
+A considerable navy defends many of the more wealthy shipping lines in and out of Faymouth, helping to drive off any opportunistic privateers hoping to plunder the riches crossing the seas to the east. Inland, the city is protected by the city guard, many of whom are mercenaries from [[notes/Guilds and Organisations/The Adventurers Guild]]
 
 
 ### Industry & Trade
@@ -87,11 +84,11 @@ Having once thought to house a magical portal to the Faewilds, the Fairy Yard bo
 | St. Nycola's Chantry              | Chantry       | Jonus Freeman             |
 | The Long-Lasting Metalsmith       | Blacksmith    | Hagren Karaktoth          |
 ## Map
-[![](assets/FaymouthCityMap.png "faymouth.jpg")
 
+![[notes/assets/FaymouthCityMap.png]]
 
 ### Guilds and Factions
 
 [[notes/Guilds and Organisations/Alabaster Trading Company]]
 
-[[notes/Guilds and Organisations/The Adventurer's Guild]]
+[[notes/Guilds and Organisations/The Adventurers Guild]]

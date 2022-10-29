@@ -8,7 +8,7 @@ The kingdom's main industry is the production of wooden hulled craft, such as bo
 
 Citizens are free to research into magical and alchemical processes, however discoveries must be shared with the kingdom and guild.
 
-![](assets/beryamap.jpg)
+![](notes/assets/beryamap.jpg)
 
 **Type**
 

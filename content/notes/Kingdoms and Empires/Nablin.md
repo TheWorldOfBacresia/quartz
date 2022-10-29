@@ -8,7 +8,7 @@ A collection of people who value freedom over not much else, the people under th
 
 Due to the strong freedoms given to all free citizens, privacy is a given here. Most do not take advantage of it, however there are rumours of less-than legal magical experiments being carried out by Beryan mages in hidden labs around the citystate. How much of that is true is anyone's guess however.
 
-![](assets/nablinmap.jpg)
+![](notes/assets/nablinmap.jpg)
 
 **Type**
 
@@ -53,7 +53,7 @@ Market economy
 
 **Controlled Territories**
 
-*   [[[Velgekh]]]
+*   [[notes/Capital Cities/Velgekh]]
 
 **Neighboring Nations**
 

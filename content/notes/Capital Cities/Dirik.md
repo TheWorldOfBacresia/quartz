@@ -1,5 +1,6 @@
-![](assets/dirik.jpg "Dirik.jpg")
 
+
+![[/notes/assets/dirik.jpg]]
 
 **Type**
 

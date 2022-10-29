@@ -13,7 +13,7 @@ Three flaming intertwined ouroboros' all biting the other's tail.
 
 _"Time, like all things never stays still. But to rush into the future without consulting the present or past brings nothing but despair"_ 
 
-![](assets/remph.jpg)
+![](notes/assets/remph.jpg)
 
 **Divine Classification**
 

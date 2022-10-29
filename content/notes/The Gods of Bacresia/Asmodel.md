@@ -14,7 +14,7 @@ The crossed hammer sigil of Asmodel is often used or incorporated into the logos
 _"To build is to be alive. Creating masterworks that outlive the age is the only proof there is of ever existing"_
 
 
-![](assets/Asmodel.jpg)
+![](notes/assets/Asmodel.jpg)
 
 **Divine Classification**
 

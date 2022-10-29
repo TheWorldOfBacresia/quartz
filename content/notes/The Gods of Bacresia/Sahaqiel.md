@@ -14,7 +14,7 @@ The 3 circles and 12 points of Sahaqiel's compass
 
 _"The winds of change will often blow those who are lost in the right direction"_
 
-![](assets/Sahaqiel.jpg)
+![](notes/assets/Sahaqiel.jpg)
 
 **Divine Classification**
 

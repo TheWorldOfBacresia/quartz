@@ -15,7 +15,7 @@ The golden diamond within diamond of Gabriel is usually seen on books and buildi
 
 _"Without order, those who wish the world harm drag us all further into Chaos"_
 
-<img src="/assets/gabriel.jpg"/>![](/uploads/images/d00bec03a1b95ebadb50b827faf31d00.jpg)
+![](/notes/assets/gabriel.jpg)
 
 **Divine Classification**
 
