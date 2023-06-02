@@ -42,6 +42,11 @@
 [[notes/Wildspace/The Moons of Bacresia]]
 
 
+## Noteable Technology
+[[notes/Encyclopaedia/Aethercore]]
+[[notes/Encyclopaedia/Aetherware]]
+
+
 ## Guilds and Organisations
 [[notes/Guilds and Organisations/Alabaster Trading Company]]
 
