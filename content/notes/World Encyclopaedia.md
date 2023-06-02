@@ -44,6 +44,7 @@
 
 ## Noteable Technology
 [[notes/Encyclopaedia/Aethercore]]
+
 [[notes/Encyclopaedia/Aetherware]]
 
 
