@@ -9,7 +9,7 @@ permalink: /
 
 Welcome to the wiki for The World of Bacresia! Here you will find everything you need to know about the world and the people that live in it. The site is still under active development so please bear with any bugs.
 
-Click [here](http://138.68.159.82:30000/join "http://138.68.159.82:30000/join") to play
+Click [here](https://wotv.draconan.co.uk/join "https://wotv.draconan.co.uk/join") to play
 
 To get started, visit the [[notes/Navigation]] page 
 
